@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 hello
+=======
+Hello
+>>>>>>> origin/Amit
 =======
 Hello
 >>>>>>> origin/Amit
